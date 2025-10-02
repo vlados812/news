@@ -1,0 +1,18 @@
+body{ 
+margin: 0;
+padding: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-color: #d0d1d3; 
+    background: url(https://cdn.pixabay.com/photo/2025/08/09/22/05/canyon-9765223_1280.jpg) bottom no-repeat;
+    background-size: cover;
+}
+h1{ 
+    color: #c6be94;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
